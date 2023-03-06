@@ -1,0 +1,17 @@
+# JAVAPROGRAM
+import java.util.Scanner;
+public class main{
+  pubic static void main(String[] args){
+    System.out.println("Enter the number");
+    Scanner Sc = new Sc(Systen.in);
+    int a =Sc.nextInt();
+    int b =Sc.nextInt();
+    if(A>B){
+      System.out.println("A is greatr than B");
+    } else if(A<B){
+      System.out.println("A is lesser than B");
+    }else{
+      System.out.println("A s equal to B");
+    }
+  }
+}
