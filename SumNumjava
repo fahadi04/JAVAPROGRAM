@@ -1,6 +1,6 @@
 # jAVAPROGRAM
 import java.util.Scanner;
-public class armStrong {
+public class SumNUm{
     public static void main(String f[]){
         int sum=0;
         Scanner Sc = new Scanner(System.in);
